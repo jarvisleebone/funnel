@@ -1,4 +1,4 @@
-group 'com.jarvis.funnel'
+group 'com.funnel'
 version '1.0.0'
 
 apply plugin: 'java'
